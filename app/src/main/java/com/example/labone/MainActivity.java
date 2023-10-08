@@ -23,6 +23,6 @@ import org.w3c.dom.Text;
     }
 
     public void onButtonChangeTextClick(View view) {
-        this.textMain.setText("Kodel");
+        this.textMain.setText("Kodel?");
     }
 }
