@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LabOne</string>
+    <string name="button">Button</string>
+    <string name="hello_app">Hello app</string>
 </resources>
